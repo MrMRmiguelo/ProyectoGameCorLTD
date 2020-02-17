@@ -78,6 +78,11 @@ h2 {
   color: #fe8a65;
   margin-bottom: 1.25em;
 }
+h3{
+  color: #595959;
+  margin-left: 60.25em;
+  font-size: x-small;
+}
 .entry {
   margin-bottom: 3.75em;
 }
@@ -134,7 +139,7 @@ h2 {
 }
 /* Footer */
 .footer-site {
-  background-color: #930412;
+  background-color: #17263d;
   margin-top: 3.75em;
   padding-top: 2.5em;
   text-align: center;
@@ -167,7 +172,7 @@ h2 {
   }
 }
 .copyright {
-  background-color: #930412;
+  background-color: #17263d;
   padding: 1em 0;
   text-align: right;
 }
